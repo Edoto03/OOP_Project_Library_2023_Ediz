@@ -1,0 +1,5 @@
+Miguel de Cervantes|Don Quixote|Novel|Adventures|1605|adventures,horse|4.3|18
+J. K. Rowling|Harry Potter and the Philosopher's Stone|Fiction|Magic|1997|magic,secrets,adventures|6.7|9
+Suzanne Collins|The Hunger Games|Fiction|Dystopian|2008|suffering,games,battle|10|21
+James Dashner|The Maze Runner|Fiction|Dystopian|2009|maze,battle,survival|9.5|108
+Jay Asher|13 Reasons Why|Young adult novel|School abuse|2017|suicide,drama,secrets|8.6|43

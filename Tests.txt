@@ -1,0 +1,60 @@
+Test 1:
+
+Welcome to Ediz's Library. Firstly, please enter a filename where you want to store all your users:
+users.txt
+>open openFull.txt
+>login
+Username: admin
+Password: i<3c++
+>help
+>books_remove The Hunger Games
+>books_info 108
+>books_sort year 
+>books_all
+>save
+>close
+>logout
+>books_all
+>exit
+
+Test 2:
+
+Welcome to Ediz's Library. Firstly, please enter a filename where you want to store all your users: 
+users.txt
+>open openEmpty.txt
+>login
+Username: admin
+Password: i<3c++
+>books_add
+Author: Ivan Vazov
+Title: Pod Igoto
+Genre: Historical novel
+Description: A romance of Bulgarian Liberty
+Year: 1894
+Tags: war liberty
+Rating: 5
+ID: 1000
+>books_all
+>books_sort title desc
+>books_all
+>close
+>saveas newFile.txt
+>books_find 13 Reasons Why
+>exit
+
+Test 3:
+
+Welcome to Ediz's Library. Firstly, please enter a filename where you want to store all your users: 
+users.txt
+>login
+Username: admin
+Password: i<3c++
+>user_add Ediz 2003
+>user_add Galena eKralica
+>user_remove Ediz
+>logout
+>login
+Username: Galena
+Password: eKralica
+>books_add
+>exit
